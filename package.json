@@ -1,0 +1,22 @@
+{
+  "name": "summer2022",
+  "version": "1.0.0",
+  "description": "Place to test/learn web programming during Summer 2022",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/37ericle/summer2022.git"
+  },
+  "author": "Eric Le",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/37ericle/summer2022/issues"
+  },
+  "homepage": "https://github.com/37ericle/summer2022#readme",
+  "dependencies": {
+    "minimist": "^1.2.6"
+  }
+}
